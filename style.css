@@ -1,0 +1,110 @@
+
+
+body{
+    background-color: rgba(255, 248, 205, 0.993);   
+}
+.basic{
+    background-color: rgb(243, 231, 193);
+    margin-top: -25px;
+    margin-left: -8px;
+    margin-right: -8px;
+    height: 140px;
+    
+
+}
+
+.div2{ display:inline-block;
+ margin-top:66px;
+ width: 400px;
+
+ 
+}
+.div1{
+    float: right;
+    margin-top:22px;
+}
+.img1{
+    width:280px;
+    margin-top: 18px;
+    margin-right: 21px;
+}
+.btn1{
+    border: none;
+    background-color:rgba(240, 248, 255, 0.062);
+    font-size: 22px;
+    margin-left: 100px;
+    
+  
+}
+.btn2{
+    border: none;
+    background-color:rgba(240, 248, 255, 0.062);
+    font-size: 22px;
+    margin-left: 10px
+}
+.btn3{
+    border: none;
+    background-color:rgba(240, 248, 255, 0.062);
+    font-size: 22px;
+    margin-left: 10px;
+    
+}
+.div3{
+   
+margin-top: 80px;
+float: left;
+
+}
+
+.img2{
+    width: 160px;
+    height:400px;
+ margin-top: -160px;
+ opacity: 0.5;
+}
+p{
+    font-family: 'Gulzar', serif;
+    font-size: 19px;
+    margin-left: 44px;
+}
+h1{
+  
+    font-family: 'Gulzar', serif;
+    font-size: 70px; 
+    margin-bottom: -40px;
+    margin-top: -30px;
+   
+}
+.div4{
+    float: left;
+    direction: rtl ;
+  
+}
+.btn4{
+    background-color:rgb(167, 97, 64);
+    border: none;
+    width: 133px;
+    height: 36px;
+    color: white;
+    font-size: 20px;
+    font-weight:500;
+    align-content: center;
+}
+.img3{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+  opacity: 0.5;
+    
+}
+.img4{
+    width: 600px;
+    position: relative;
+    top: 0;
+    left:0;
+}
+.div5{
+    position: relative;
+    
+    float: right;
+}
